@@ -1,1 +1,8 @@
 theme: jekyll-theme-tactile
+#title: Learning with Amit
+author: Amit Rai Sharma
+email: contact@amitraisharma.com
+description: > # this means to ignore newlines until "baseurl:"
+  Learning technology with Amit.
+# social links
+github_username:  aarcosolutions
